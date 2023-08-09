@@ -1,0 +1,29 @@
+td {
+	text-align: left;
+	vertical-align: top;
+	font-family:Tahoma;
+	font-size:12px;
+	color:#424242;
+}
+
+a {
+	font-family:Arial;
+	font-size:13px;
+	text-decoration: none;
+	font-weight: bold;
+	color:#424242;
+}
+
+a:Hover  {
+	color : #DD00DD;
+	font-size:14px;
+	text-decoration : underline;
+}
+
+aa {
+	font-family:Arial;
+	font-size:14px;
+	text-decoration: none;
+	font-weight: bold;
+	color:#424242;
+}
